@@ -1,0 +1,19 @@
+{
+  "name": "ms-users-schemas",
+  "version": "0.1.0",
+  "description": "JSON schemas for ms-users service",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makeomatic/ms-users-schemas.git"
+  },
+  "author": "Vitaly Aminev <v@makeomatic.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/makeomatic/ms-users-schemas/issues"
+  },
+  "homepage": "https://github.com/makeomatic/ms-users-schemas#readme",
+  "dependencies": {
+    "glob": "^6.0.1"
+  }
+}
