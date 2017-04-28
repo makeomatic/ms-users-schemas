@@ -1,5 +1,7 @@
 # MS users schemas
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/makeomatic/ms-users-schemas.svg)](https://greenkeeper.io/)
+
 Contains schemas for ms-users
 
 ## Install
